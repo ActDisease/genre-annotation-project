@@ -5,3 +5,6 @@ __pycache__/
 
 genre_training_data_swe_part1_and_double_voted.parquet
 genre_annotations_with_embeddings.parquet
+medical-magazines-genre-annotation.csv
+merged_annotations.csv
+.claude
