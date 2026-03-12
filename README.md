@@ -7,6 +7,7 @@ This repository contains the code and analysis for the paper:
 > <sup>1</sup>Department of History of Science and Ideas, Uppsala University, Sweden
 > <sup>2</sup>Department of Linguistics and Philology, Uppsala University, Sweden
 > vera.danilova@idehist.uu.se, sara.stymne@lingfil.uu.se
+> LREC 2026
 
 ## Overview
 
